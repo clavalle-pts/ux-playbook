@@ -1,4 +1,4 @@
-# TEAMS Design & UX Charter
+# TEAMS Design Charter
 
 ### Deliverables
 - Visually indicate each component, any sub-components and respective description
