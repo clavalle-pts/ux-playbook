@@ -1,19 +1,16 @@
 # TEAMS Design Charter
-
-
-
 ## Design Components
 ##### (Placeholders, Containers, Objects & Entries)
-- Object Placeholder
-  - Placeholder Container
-    - Container Object
-      - Object Entry
+- Placeholder
+  - Container
+    - Element
+      - Entry
 
 ##### A Sample Nesting
-- Placeholder (eg.Segmented View within responsive breakpoints)
-  - View Container (eg.Design Pattern ie.Tabs)
-    - Dashboard View (eg.Multiple Dashboard Entires)
-      - Dashboard Entry (eg.Dashboard Widget)
+- Placeholder (Viewport) eg.an array of placeholders for containers within the viewport
+  - Container (View) eg.design patterns, ie.tab view component
+    - Element (Dashboard) eg.multiple tabs of a dashboard element within view component
+      - Entry (Widget) eg.a specific type or version of an element, ie.charts
 
 ### Key Components
 - Pendant
