@@ -1,5 +1,8 @@
 # TEAMS Design Charter
-## Design Components
+
+### Deliverables
+
+## Components
 
 - Placeholder
 - Container
@@ -60,6 +63,9 @@ Dashboards are default landing pages determined by specific user personas that a
 - Reports
 - Actionable Items (eg. workflow, todos, tasks based on business logic)
 
+### Buttons
+Green means then and red means this and here are the colors and the sizes.
+
 ## UI States
 
 - Blank States, First impressions
@@ -95,10 +101,6 @@ Dashboards are default landing pages determined by specific user personas that a
 - Low-level CSS Framework - [Link](http://www.basscss.com)
 - A11Y Color Combos - [Link](http://clrs.cc/a11y/)
 
-### Deliverables
-
-### Buttons
-Green means then and red means this and here are the colors and the sizes.
 
 
 
