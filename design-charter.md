@@ -29,7 +29,7 @@ a specific element, design pattern or view component. A container is a logical l
     - Element (Dashboard) eg.multiple tabs of a dashboard element within view component
       - Entry (Widget) eg.a specific type or version of an element, ie.charts
 
-### Component Behavior
+### Component
 - Spine (Vertical & Horizontal)
   - The spine has a higher z in relation to the drawer. It contains the TEAMS pendant button glyph and the other key glyphs that exist along its y-axis. The spine can be on the left or right side of the screen for accessibility purposes.
 - Pendant
