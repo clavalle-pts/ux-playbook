@@ -24,7 +24,7 @@ a specific element, design pattern or view component. A container is a logical l
     - The relationship between entry and element is could be described as by using a type example. The element could contain multiple types of entries.
 
 ##### A Sample Nesting
-- Placeholder (Viewport) eg.an array of placeholders for containers within the viewport
+- Placeholder (Viewports) eg.an array of placeholders for containers within the viewport as possible locations for views
   - Container (View) eg.design patterns, ie.tab view component
     - Element (Dashboard) eg.multiple tabs of a dashboard element within view component
       - Entry (Widget) eg.a specific type or version of an element, ie.charts
@@ -65,6 +65,14 @@ a specific element, design pattern or view component. A container is a logical l
 - Charts
 - Reports
 - Actionable Items (eg. workflow, todos, tasks based on business logic)
+
+## UI States
+
+- Blank States, First Impressions
+- Loading States, Perception of loading
+- Partial States, Checklists, wizards
+- Error State, 404, JS alert boxes
+- Ideal State, Everything is normal
 
 ### Resolutions and Responsivness
 - Breakpoints
