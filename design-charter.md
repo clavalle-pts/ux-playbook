@@ -2,9 +2,9 @@
 ## Design Components
 ##### (Placeholders, Containers, Objects & Entries)
 - Placeholder
-  - Container
-    - Element
-      - Entry
+- Container
+- Element
+- Entry
 
 - Placeholder
     - Placeholders represent the 
