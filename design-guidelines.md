@@ -1,4 +1,4 @@
-# Design Goals for Accessibility
+# Technical Goals for Accessibility
 This document is a best practices guideline for UI behavior. Please follow as close as possible and refer to as often as needed.
 #### Viewport/Placeholder
 - Viewport is synonmous with placeholder
@@ -26,4 +26,7 @@ This document is a best practices guideline for UI behavior. Please follow as cl
     - a
 
 #### Color Scheme
-- 
+- A11Y
+
+#### Borders
+- Borders are to the inside of the placeholder or container. ie. If a placeholder is 52 pixels in width, this remains the same with or without borders.
