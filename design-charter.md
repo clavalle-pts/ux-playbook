@@ -1,7 +1,10 @@
 # TEAMS Design Charter
 ## Design Components
 ##### (Placeholders, Containers, Objects & Entries)
-PlaceholderContainerElementEntry
+Placeholder
+Container
+Element
+Entry
 
 - Placeholder
     - Placeholders represent the 
