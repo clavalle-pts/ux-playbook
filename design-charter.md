@@ -43,7 +43,7 @@ a specific element, design pattern or view component. A container is a logical l
 - Jump-Point Quick Search
   - A searchable, filterable list with auto-jump upon pressing enter. The search function of this component should be tightly coupled to the results returned as each key is pressed. The function should function with a predictive nature.
 
-### A list of components with its sub-components
+### A list of components with their elements
 ###### Nav-Bar
 
 ###### Drawer
