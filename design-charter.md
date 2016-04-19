@@ -6,7 +6,7 @@
 - Element
 - Entry
 
-##### (Placeholders, Containers, Objects & Entries)
+##### (Placeholders, Containers, Elements & Entries)
 - Placeholder
     - Placeholders represent the 
 modular responsive breakpoints
