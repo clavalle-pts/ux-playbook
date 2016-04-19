@@ -1,11 +1,12 @@
 # TEAMS Design Charter
 ## Design Components
-##### (Placeholders, Containers, Objects & Entries)
+
 - Placeholder
 - Container
 - Element
 - Entry
 
+##### (Placeholders, Containers, Objects & Entries)
 - Placeholder
     - Placeholders represent the 
 modular responsive breakpoints
