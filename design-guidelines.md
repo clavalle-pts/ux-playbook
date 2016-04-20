@@ -1,5 +1,10 @@
-# Technical Goals for Accessibility
+# Technical Guidelines for Accessibility
+### ToDo
+- Primary Color Scheme
+- Typeface Weights & Sizes
+
 This document is a best practices guideline for UI behavior. Please follow as close as possible and refer to as often as needed.
+
 #### Viewport/Placeholder
 - Viewport is synonmous with placeholder
 - No horizontal scrolling within viewport or placeholders
