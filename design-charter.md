@@ -1,11 +1,11 @@
 # TEAMS Design Charter
 
-Rules:
-1. This is an evolving document, a guide for all involved parties, pull-requests for edits are welcome.
-2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attribuites, graphic and code assets such as svg files and css files, respectivly. This may and/or can be changed as developer needs change.
-3. Feedback, what channels? For now, google docs.
-4. Testing, who does this? Need management preferences.
-5. Iteration, how does testing get communicated back to dev? Michael to research system for gathering user-feedback in core TEAMS system.
+### Rules:
+- 1. This is an evolving document, a guide for all involved parties, pull-requests for edits are welcome.
+- 2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attribuites, graphic and code assets such as svg files and css files, respectivly. This may and/or can be changed as developer needs change.
+- 3. Feedback, what channels? For now, google docs.
+- 4. Testing, who does this? Need management preferences.
+- 5. Iteration, how does testing get communicated back to dev? Michael to research system for gathering user-feedback in core TEAMS system.
 
 ## Components
 
