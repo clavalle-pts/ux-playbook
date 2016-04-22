@@ -2,16 +2,16 @@
 
 Prototype Instructions
 
-Step 1 - Click the Student Performance button, the student performance report is shown in placeholder A.
-Step 2 - Click the Absence button, the absences report is shown in placeholder B.
-Step 3 - Click the clear button, the containers are cleared. In this example the placeholders are revealed for illustration purposes.
-Step 4 - Click the New tab, a new container view is added.
+1. Click the Student Performance button, the student performance report is shown in placeholder
+2. Click the Absence button, the absences report is shown in placeholder
+3. Click the clear button, the containers are cleared. In this example the placeholders are revealed for illustration purposes.
+4. Click the New tab, a new container view is added.
 
-Dashboard Prototype: [Link](https://invis.io/5G72R3LKY)
+Dashboard Prototype: https://invis.io/5G72R3LKY
 
-Jasper Prototype: [Link](http://ux-dev.ptsteams.local/)
+Jasper Prototype: http://ux-dev.ptsteams.local/
 
-Styleguide: [Link](https://zpl.io/Z21f74f)
+Styleguide: https://zpl.io/Z21f74f
 
 Note: Styleguide, color-pallete and typeface not final.
 
