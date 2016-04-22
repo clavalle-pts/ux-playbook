@@ -1,11 +1,11 @@
 # TEAMS Design Charter
 
 ### Preface
-- 1. This is an evolving document, a guide for all involved parties, pull-requests for edits are welcome.
-- 2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attribuites, graphic and code assets such as svg files and css files, respectivly. This may and/or can be changed as developer needs change.
-- 3. Feedback, what channels? For now, google docs.
-- 4. Testing, who does this? Need management preferences.
-- 5. Iteration, how does testing get communicated back to dev? 
+1. This is an evolving document, a guide for all involved parties, pull-requests for edits are welcome.
+2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attribuites, graphic and code assets such as svg files and css files, respectivly. This may and/or can be changed as developer needs change.
+3. Feedback, what channels? For now, google docs.
+4. Testing, who does this? Need management preferences.
+5. Iteration, how does testing get communicated back to dev?
 
 ## Components
 
@@ -52,14 +52,14 @@
 - Jump-Point Quick Search
   - A searchable, filterable list with auto-jump associated with carriage return. The search function of this component should be tightly coupled to the results returned as each letter is entered. The function should search with a predictive nature taking into account the frequency function.
 - Profile
-  - The user profile section is for user maintaining user-related elements such as passwords. According to the security procedures, the avitar and display name of the user may need to be set in the administration portion of the system without user control. 
+  - The user profile section is for user maintaining user-related elements such as passwords. According to the security procedures, the avitar and display name of the user may need to be set in the administration portion of the system without user control.
 - Notifications
-  - The notifications section should show all the current notifications with button options to clear one or all notifications. The user can click on the notification a a link which acts as jump point, navigating the user to that particular record. 
+  - The notifications section should show all the current notifications with button options to clear one or all notifications. The user can click on the notification a a link which acts as jump point, navigating the user to that particular record.
 - Messages
-  - Messages are system messages for user notification 
+  - Messages are system messages for user notification
 
 ### Dashboard Container
-Dashboards are default landing pages determined by specific user personas that are linked to each account. For example, teachers might see dashboard A and principals might see dashboard B. In part, for data security and in another part for design, 
+Dashboards are default landing pages determined by specific user personas that are linked to each account. For example, teachers might see dashboard A and principals might see dashboard B. In part, for data security and in another part for design,
 - Charts
 - Reports
 - Actionable Items (eg. workflow, todos, tasks based on business logic)
@@ -96,7 +96,3 @@ Buttons have style variances with size and color. Generally speaking the color r
 - SVG Glyphs - [Link](https://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 - Low-level CSS Framework - [Link](http://www.basscss.com)
 - A11Y Color Combos - [Link](http://clrs.cc/a11y/)
-
-
-
-
