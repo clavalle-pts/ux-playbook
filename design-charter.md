@@ -2,7 +2,7 @@
 
 ### Preface
 1. This is an evolving document, a guide for all involved parties, pull-requests for edits are welcome.
-2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attribuites, graphic and code assets such as svg files and css files, respectivly. This may and/or can be changed as developer needs change.
+2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attributes, graphic and code assets such as SVG files and css files, respectively. This may and/or can be changed as developer needs change.
 3. Feedback, what channels? For now, google docs.
 4. Testing, who does this? Need management preferences.
 5. Iteration, how does testing get communicated back to dev?
@@ -25,7 +25,7 @@
     - An element could be a component the container. For example, a many-to-one relationship between the element and the container could be menu buttons (elements) in a menu (container).
 
 - Entry
-    - The relationship between entry and element is could be described as a type of element. Each element could contain multiple types of entries. For example, a menu could have buttons for navigation and buttons for search. This would represent two types of entries each with differient behavior.
+    - The relationship between entry and element is could be described as a type of element. Each element could contain multiple types of entries. For example, a menu could have buttons for navigation and buttons for search. This would represent two types of entries each with different behavior.
 
 ##### A Sample Nesting
 - Placeholder (Breakpoints) eg.an array of virtual-viewports that hold containers within the device viewport in an accessible manner.
@@ -48,11 +48,11 @@
 - My Favorites
   - My favorites items are jump-points and jump-point headers with nested jump-points sourced from the users customized menu items. Each favorite item can contain a custom icon and can be custom named.
 - Recent Items
-  - Recent items is a list of recently used menu items by frequency according to frequency funciton.
+  - Recent items is a list of recently used menu items by frequency according to frequency function.
 - Jump-Point Quick Search
   - A searchable, filterable list with auto-jump associated with carriage return. The search function of this component should be tightly coupled to the results returned as each letter is entered. The function should search with a predictive nature taking into account the frequency function.
 - Profile
-  - The user profile section is for user maintaining user-related elements such as passwords. According to the security procedures, the avitar and display name of the user may need to be set in the administration portion of the system without user control.
+  - The user profile section is for user maintaining user-related elements such as passwords. According to the security procedures, the avatar and display name of the user may need to be set in the administration portion of the system without user control.
 - Notifications
   - The notifications section should show all the current notifications with button options to clear one or all notifications. The user can click on the notification a a link which acts as jump point, navigating the user to that particular record.
 - Messages
@@ -77,7 +77,7 @@ Buttons have style variances with size and color. Generally speaking the color r
 
 # Accessibility & Device Compliance
 
-### Resolutions and Responsivness
+### Resolutions and Responsiveness
 - MSDN - [Link](https://blogs.msdn.microsoft.com/b8/2012/03/21/scaling-to-different-screens/)
 - Responsive UI Breakpoints - [Link](https://www.google.com/design/spec/layout/responsive-ui.html#responsive-ui-breakpoints)
 - 7 Deadly Mobile Myths - [Link](http://globalmoxie.com/jhc/prez/mobile-myths.pdf)
