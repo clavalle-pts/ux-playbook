@@ -1,7 +1,9 @@
 # Dashboard
 
 # Jasper Charts Prototype
+
 git@bitbucket.org:uxteams/dashboard_widgets.git
+
 http://ux-dev.ptsteams.local/
 
 Prototype Instructions
