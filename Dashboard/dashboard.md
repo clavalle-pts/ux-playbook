@@ -1,21 +1,21 @@
 # Dashboard
 
-# Jasper Charts Prototype
+### Jasper Charts Prototype
 
 git@bitbucket.org:uxteams/dashboard_widgets.git
 
 http://ux-dev.ptsteams.local/
 
-Prototype Instructions
+### Dashboard Prototype
+
+https://invis.io/5G72R3LKY
+
+Dashboard Prototype Instructions
 
 1. Click the Student Performance button, the student performance report is shown in placeholder
 2. Click the Absence button, the absences report is shown in placeholder
 3. Click the clear button, the containers are cleared. In this example the placeholders are revealed for illustration purposes.
 4. Click the New tab, a new container view is added.
-
-Dashboard Prototype: https://invis.io/5G72R3LKY
-
-Jasper Prototype: http://ux-dev.ptsteams.local/
 
 Styleguide: https://zpl.io/Z21f74f
 
