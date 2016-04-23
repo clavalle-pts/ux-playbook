@@ -1,5 +1,9 @@
 # Dashboard
 
+# Jasper Charts Prototype
+git@bitbucket.org:uxteams/dashboard_widgets.git
+http://ux-dev.ptsteams.local/
+
 Prototype Instructions
 
 1. Click the Student Performance button, the student performance report is shown in placeholder
