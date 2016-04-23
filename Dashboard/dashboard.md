@@ -4,6 +4,12 @@
 
 git@bitbucket.org:uxteams/dashboard_widgets.git
 
+npm install gulp
+
+gulp
+
+-or-
+
 http://ux-dev.ptsteams.local/
 
 ### Dashboard Prototype
