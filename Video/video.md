@@ -12,6 +12,10 @@
 ### Prototype
 - http://ux-dev.ptsteams.local/videos/
 
+##### Prototype Source
+
+- git@bitbucket.org:uxteams/videos.git
+
 ### Guidelines
 
 - All filenames should use hyphens, underscore or camelCase, no spaces!
