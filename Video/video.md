@@ -45,7 +45,7 @@ The HTML5 video renders quickly and loads with high confidence across various de
 Videojs Plugins
   - Video Markers [Link](https://github.com/spchuang/videojs-markers)
 
-  - Slideshow in Tandum [Link](https://github.com/InnovationEnterprise/let-me-slide-that-for-you)
+  - Slideshow in Tandem [Link](https://github.com/InnovationEnterprise/let-me-slide-that-for-you)
 
   - Resume Watching [Link](https://github.com/sprice/videojs-resume)
 
