@@ -1,5 +1,24 @@
 # TEAMS Video
 
+### Todo
+
+- [x] HTML5 Video
+- [x] Markers
+- [ ] Responsive Sizing
+- [ ] Playlist
+- [ ] Overlay on higher Z with close button
+- [ ] Video Menu
+
+### Prototype
+- http://ux-dev.ptsteams.local/videos/
+
+### Guidelines
+
+- All filenames should use hyphens, underscore or camelCase, no spaces!
+- Video files, poster images and any additional files will be uploaded to S3 bucket as per Operations
+- Primary file format is MP4, secondary format is WebM
+
+
 The user is presented with a screen that shows a welcome video along with a slidedeck for key information and concepts. Neither, both or some items will be available for download. MP4 is the preferred video format and HTML is the preferred slidedeck format.
 
 The user will be able to click on the pendant in the top left corner of the screen to access additional links. Menu links are organized by topic and are nested underneath in a lighter font, meaning of less weight, and indented by 10 pixels.
