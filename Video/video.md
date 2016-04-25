@@ -10,11 +10,11 @@
 - [ ] Video Menu
 
 ### Prototype
-- http://ux-dev.ptsteams.local/videos/
+http://ux-dev.ptsteams.local/videos/
 
 ##### Prototype Source
 
-- git@bitbucket.org:uxteams/videos.git
+git clone git@bitbucket.org:uxteams/videos.git
 
 ### Guidelines
 
