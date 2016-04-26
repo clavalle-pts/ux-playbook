@@ -23,7 +23,9 @@ The media query has two components:
 
 #### Apple Specific Meta Tags
 
-Sets whether a web application runs in full-screen mode.<br>```<meta name="apple-mobile-web-app-capable" content="yes">```
+Sets whether a web application runs in full-screen mode.<br>
+```<meta name="apple-mobile-web-app-capable" content="yes">
+```
 
 If content is set to yes, the web application runs in full-screen mode; otherwise, it does not. The default behavior is to use Safari to display web content.
 You can determine whether a webpage is displayed in full-screen mode using the window.navigator.standalone read-only Boolean JavaScript property.
