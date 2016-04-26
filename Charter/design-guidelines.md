@@ -24,15 +24,15 @@ The media query has two components:
 #### Apple Specific Meta Tags
 
 Sets whether a web application runs in full-screen mode.<br>
-```<meta name="apple-mobile-web-app-capable" content="yes">
-```
+<meta name="apple-mobile-web-app-capable" content="yes">
+
 
 If content is set to yes, the web application runs in full-screen mode; otherwise, it does not. The default behavior is to use Safari to display web content.
 You can determine whether a webpage is displayed in full-screen mode using the window.navigator.standalone read-only Boolean JavaScript property.
 
 ###### Apple Touch Icon
-```<link rel="apple-touch-icon" href="apple-touch-icon.png">
-```<br>
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<br>
 Icon Size - 180x180 pixels<br>
 [This article discusses the history of the Apple touch icon size](https://realfavicongenerator.net/blog/apple-touch-icon-the-good-the-bad-the-ugly/)
 
