@@ -1,11 +1,12 @@
 # TEAMS Design Charter
 
 ### Preface
-1. This is an evolving document, a guide for all involved parties, pull-requests for edits are welcome.
-2. Deliverables, what are deliverables? Deliverables for now are everything that UX produces in a standard round of design. This includes but is not limited to a teams component worksheet which explains in detail the components and the various UI states, high-fidelity vector drawings, color and typeface attributes, graphic and code assets such as SVG files and css files, respectively. This may and/or can be changed as developer needs change.
+1. This is an evolving document, a guide for all. Pull-requests are welcome.
+2. Deliverables, what are deliverables? Deliverables for now are everything that gets produced in one design round. This could include things like a worksheet that explains the components and UI states, vector drawings, style attributes, graphic and code assets such as svg files and css files, wireframes, mockups and prototypes.
 3. Feedback, what channels? For now, google docs.
-4. Testing, who does this? Need management preferences.
+4. Testing, who does this? How does this feed back into the next design round?
 5. Iteration, how does testing get communicated back to dev?
+6. Timeline, milestones, goals.
 
 ## Components
 
@@ -79,20 +80,28 @@ Buttons have style variances with size and color. Generally speaking the color r
 
 ### Resolutions and Responsiveness
 - MSDN - [Link](https://blogs.msdn.microsoft.com/b8/2012/03/21/scaling-to-different-screens/)
-- Responsive UI Breakpoints - [Link](https://www.google.com/design/spec/layout/responsive-ui.html#responsive-ui-breakpoints)
-- 7 Deadly Mobile Myths - [Link](http://globalmoxie.com/jhc/prez/mobile-myths.pdf)
+- Responsiveness & Accessibility - [Link](http://www.ssbbartgroup.com/blog/what-does-responsive-web-design-have-to-do-with-accessibility/)
 
 ### Accessibility Goals
 - ARIA W3C Spec - [Link](http://www.w3.org/TR/aria-in-html/)
 - WCAG Guidelines - [Link](http://www.w3.org/TR/WCAG20/#visual-audio-contrast)
 - U.S. Web Design Standards - [Link](https://playbook.cio.gov/designstandards/)
+- W3C Accessibility Use of Color [link](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-without-color.html)
 
 ### UI Best Practices
 - Style Guides for Apps - [Link](https://www.google.com/design/spec/style/)
 - Sample UI Practices - [Link](http://developer.android.com/training/best-ui.html)
 - Yahoo UI Library - [Link](https://github.com/yui/yui3)
+- Responsive UI Breakpoints from Google - [Link](https://www.google.com/design/spec/layout/responsive-ui.html#responsive-ui-breakpoints)
 
-### Accessible-Friendly Frameworks
+### Misc Frameworks
 - SVG Glyphs - [Link](https://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
-- Low-level CSS Framework - [Link](http://www.basscss.com)
+- CSS Layout Grid W3C Draft - [Link](http://www.w3.org/TR/css-grid-1/)
 - A11Y Color Combos - [Link](http://clrs.cc/a11y/)
+
+### Color and SASS Tools
+- Some primary palettes from Google [link](https://www.google.com/design/spec/style/color.html#)
+- SASS Script Functions [link](http://sass-lang.com/documentation/Sass/Script/Functions.html)
+- Programmatically generate a color scheme in SASS [link](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
+- SASS & Compass Color Functions [link](http://jackiebalzer.com/color)
+- Practical Color Theory [link](http://tallys.github.io/color-theory/)
