@@ -1,4 +1,4 @@
-# TEAMS Design Charter (Styleguide & Development Process Methodology)
+# TEAMS Design Charter (Style-guide & Development Process Methodology)
 
 ### Preface
 1. This is an living, evolving document, a guide for all. Pull-requests are welcome.
@@ -8,7 +8,7 @@
 5. Iteration, how does testing get communicated back to dev?
 6. Timeline, milestones, goals.
 
-## SDPM (Styleguide & Development Process Methodology) /a/k/a TEAMS Components
+## SDPM (Style-guide & Development Process Methodology) /a/k/a TEAMS Components
 
 - Placeholder, holds the component entity, represents modular breakpoints with respect to device viewport.
 - Container, logical entity in DOM, various technologies, specific set of elements.
