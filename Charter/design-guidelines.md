@@ -63,6 +63,8 @@ This   [article](https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css
 
 ### Typeface
 
+em vs. px vs. pt vs. percent
+
 - Weights
     - normal
     - medium

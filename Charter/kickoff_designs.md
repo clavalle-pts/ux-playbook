@@ -37,11 +37,22 @@ per PROLOGIC.
 - Schema
   - Chart_id
   - Chart_name
-  - Master list of keywords:tags
-    - All modules
-      - Student
-      - Finance
-      - Warehouse
+  - Chart_tag
+  - Dashboard-able:boolean
+
+###### Master list of tags
+- All modules
+  - Student
+  - Finance
+  - Warehouse
+  - etc
+- pass
+- fail
+- teacher
+- principal
+- grades
+- student
+- etc
 
 ###### Image library
   - Collection of Icons
