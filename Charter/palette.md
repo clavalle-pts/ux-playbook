@@ -15,8 +15,8 @@ Some random facts about the color palette.  The palette is named Prologic Theme 
 ### Color Rules
 - Biscay to Dark Pink
 ```scss
-lighten(saturate(adjust-hue(#253664, 118.4127), 35.8328), 34.3137);```
-- Biscay to
+lighten(saturate(adjust-hue(#253664, 118.4127), 35.8328), 34.3137);
+```
 
 This part is still a work in progress, but essentially, districts would be able to load their primary color and the palette would auto-populate in a consistent manner.
 
