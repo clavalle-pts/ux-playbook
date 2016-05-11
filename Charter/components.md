@@ -12,6 +12,8 @@
   - The drawer has two ideal UI states. Open and closed. The drawer is in a placeholder along the (-) x-axis in relation to the (0,0) "normal" viewport . When the pendant button is clicked, the (0,0) intersection is moved right along the x-axis, revealing the placeholder within the (-) axis space, thus pushing the content in the placeholder to the right of (0,0) off the screen. The drawers two ideal UI states, open and closed also depend on the size of the viewport. If the viewport is greater than or equal to the sum of the main-viewport and the drawer-viewport, then the ideal UI state is open, else the ideal UI state is closed.
 
 ### Menu Elements
+- Search
+  - Predictive searching across jump-points, employees, students, favorites and recent items. Filtering search immediately after each keypress and/or backspace.
 - My Favorites
   - My favorites items are jump-points and jump-point headers with nested jump-points sourced from the users customized menu items. Each favorite item can contain a custom icon and can be custom named.
 - Recent Items
