@@ -21,6 +21,7 @@
   - Assets, Glyphs, Typefaces, Icons, Images
 - Element, constituent of container, no stand-alone meaning, can be semantically-tied to container for organizational needs
 - Entry, data-driven state and behavior
+- Entry Item, data elements of an entry
 - Modifier, defines appearance and/or behavior, optional. In essence HTML attributes.
 - UI State
   - Blank States, First impressions
