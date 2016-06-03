@@ -62,7 +62,7 @@ Develop KPIs, figure out how to communicate about this stuff without bogging dow
 
 ###### Strategic Shift (Mindset & Culture)
 - Hire one graphic designer to function as UI designer and to meet graphics design needs for UI and marketing
-- UX shifts UI work to graphic designer and takes on function as interim project manager
+- UX shares UI work-load with graphic designer and shares function as interim project manager with Business Analyst.
 - Shorter Iterations, More Iterations
 - Hire/Promote two new/existing resources/front-end developers to code UX specs into the Java templates
 - Hire one full-stack developer to cross-train with additional resources and code the modern front-end into TEAMS APIs
