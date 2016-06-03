@@ -60,13 +60,6 @@ Develop KPIs, figure out how to communicate about this stuff without bogging dow
 
 #### #2 Lead and live 'bug-free'
 
-###### Example Workflow (1 Week Iteration)
-- (Monday - Wednesday) Screen(s) is/are requested, graphic designer assembles and builds UI views based on design language
-- (Tuesday - Thursday) Front-end developers work with graphic designer to code Java templates in tandem with design
-- (Wednesday - Thursday) Full-stack developer works with Plano office and Austin Ops department to connect front-end view to TEAMS APIs.
-- (Thursday - Friday) Consultants perform QA and Testing
-- (Friday - Monday) Final screens are presented to management for review and approval.
-
 ###### Strategic Shift (Mindset & Culture)
 - Hire one graphic designer to function as UI designer and to meet graphics design needs for UI and marketing
 - UX shifts UI work to graphic designer and functions as interim project manager
@@ -77,6 +70,13 @@ Develop KPIs, figure out how to communicate about this stuff without bogging dow
 - Database teams works to optimize queries throughout
 - Report team works with Ops to optimize report queries
 - Build out new front-end for 80% of users, leave existing teams style as is and in tandem.
+
+###### Example Workflow (1 Week Iteration)
+- (Monday - Wednesday) Screen(s) is/are requested, graphic designer assembles and builds UI views based on design language
+- (Tuesday - Thursday) Front-end developers work with graphic designer to code Java templates in tandem with design
+- (Wednesday - Thursday) Full-stack developer works with Plano office and Austin Ops department to connect front-end view to TEAMS APIs.
+- (Thursday - Friday) Consultants perform QA and Testing
+- (Friday - Monday) Final screens are presented to management for review and approval.
 
 ###### Benefits
 - Unified user experience
