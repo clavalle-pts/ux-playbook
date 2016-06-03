@@ -79,7 +79,7 @@ Develop KPIs, figure out how to communicate about this stuff without bogging dow
 - (Friday - Monday) Final screens are presented to management for review and approval.
 
 ###### Benefits
-- Unified user experience
+- Unified user experience, across viewports
 - Modern practices, better product
 - Agile response in case of competitive landscape changes
 
